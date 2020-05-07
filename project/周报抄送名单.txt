@@ -1,0 +1,5 @@
+接受人员名单：
+1：联系项目PMO，确认行业接收人员名单，如架构师，运营，商务等；
+2：将各自区技公司的项目管理人员抄送进去；如区技的PMO；
+3：行业二部交付项目管理组，名单如下：
+bluejqhuang(黄俊清) <bluejqhuang@tencent.com>; boscoyliu(刘勇) <boscoyliu@tencent.com>; changchenlu(鲁长城) <changchenlu@tencent.com>; eddytlliu(刘同亮) <eddytlliu@tencent.com>; omigawang(汪睿) <omigawang@tencent.com>; polozhao(赵振波) <polozhao@tencent.com>; quentinpeng(彭元锟) <quentinpeng@tencent.com>; robinxzhang(张晓斌) <robinxzhang@tencent.com>; teddytian(田勇) <teddytian@tencent.com>; wynnwei(韦瑜) <wynnwei@tencent.com>; yangminglu(鲁旻) <yangminglu@tencent.com>; spraydong(董江德) <spraydong@tencent.com>；v_wsaiwang@tencent.com

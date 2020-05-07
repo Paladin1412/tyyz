@@ -1,0 +1,1 @@
+bash ./up-cpaas.sh      --network-interface=eth0      --enabled-features=acp,devops,tke      --domain-name=94.191.56.88      --kube_controlplane_endpoint=172.18.0.3      --use-http
